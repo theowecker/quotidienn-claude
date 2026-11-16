@@ -6,4 +6,4 @@ Your [Quotidienn](https://quotidienn.com) habits in Claude Code: what is due tod
 /plugin install quotidienn --marketplace theowecker/quotidienn-claude
 ```
 
-It asks for a key when it installs. Make one under "Claude and other tools" on your Quotidienn profile.
+It asks for a key when it installs. Make one under Claude on your Quotidienn profile. The full setup, and what Claude can and cannot see, is at [quotidienn.com/claude](https://quotidienn.com/claude).

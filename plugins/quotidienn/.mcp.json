@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "quotidienn": {
+      "type": "http",
+      "url": "${user_config.url}/mcp",
+      "headers": { "Authorization": "Bearer ${user_config.api_token}" }
+    }
+  }
+}

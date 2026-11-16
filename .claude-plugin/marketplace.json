@@ -1,0 +1,11 @@
+{
+  "name": "quotidienn",
+  "owner": { "name": "Quotidienn" },
+  "plugins": [
+    {
+      "name": "quotidienn",
+      "source": "./plugins/quotidienn",
+      "description": "Your Quotidienn habits in Claude: what is due, timers, and a nudge when something slips."
+    }
+  ]
+}

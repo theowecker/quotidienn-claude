@@ -1,0 +1,21 @@
+{
+  "name": "quotidienn",
+  "version": "1.0.0",
+  "description": "Your Quotidienn habits in Claude: what is due, timers, and a nudge when something slips.",
+  "homepage": "https://quotidienn.com",
+  "userConfig": {
+    "api_token": {
+      "type": "string",
+      "title": "Quotidienn key",
+      "description": "Make one on your Quotidienn profile page. Starts with qtd_.",
+      "sensitive": true,
+      "required": true
+    },
+    "url": {
+      "type": "string",
+      "title": "Quotidienn address",
+      "description": "Only change this to point at a development server.",
+      "default": "https://quotidienn.com"
+    }
+  }
+}
